@@ -19,6 +19,7 @@ npm install
 ```
 npm start
 ```
+## Deployed on heroku/other hosting service
 
 
 ### Customize configuration
