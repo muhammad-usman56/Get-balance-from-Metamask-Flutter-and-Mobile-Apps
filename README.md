@@ -30,5 +30,6 @@ address:"YOUR METAMASK WALLET ADDRESS"
 
 # Hey Congratulations You Get balance from your metamask wallet 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For more Reading
+Please check the following article
+https://medium.com/@usmanshamas/get-balance-from-metamask-in-flutter-react-native-and-native-mobile-development-f034a8dc34f9
